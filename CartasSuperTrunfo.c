@@ -3,7 +3,8 @@
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das cartas
 // Objetivo: No nível novato você deve criar as cartas representando as cidades utilizando scanf para entrada de dados e printf para exibir as informações.
-// Aluno: Fábio Oliveira Nunes
+// Aluno: Fábio Oliveira Nunes Matrícula: 202601102478
+
 
 int main() {
     //Variáveis da Carta 1
